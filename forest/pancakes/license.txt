@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rilakkuma Pancakes!
+* source:	https://sketchfab.com/3d-models/rilakkuma-pancakes-512e1ff990124f5d9a164b0dec64f49a
+* author:	libblekibble (https://sketchfab.com/libblekibble)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rilakkuma Pancakes!" (https://sketchfab.com/3d-models/rilakkuma-pancakes-512e1ff990124f5d9a164b0dec64f49a) by libblekibble (https://sketchfab.com/libblekibble) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

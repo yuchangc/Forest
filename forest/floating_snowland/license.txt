@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floating Snowland
+* source:	https://sketchfab.com/3d-models/floating-snowland-7be7ee3c147448c191d67cde706d53fd
+* author:	Andreas (https://sketchfab.com/adam4sx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floating Snowland" (https://sketchfab.com/3d-models/floating-snowland-7be7ee3c147448c191d67cde706d53fd) by Andreas (https://sketchfab.com/adam4sx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

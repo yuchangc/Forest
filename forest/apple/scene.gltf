@@ -1,0 +1,403 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 449,
+      "max": [
+        1.0498955249786377,
+        1.0033942461013794,
+        0.8022732734680176
+      ],
+      "min": [
+        -1.1095153093338013,
+        -1.1464046239852905,
+        -0.6475456953048706
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5388,
+      "componentType": 5126,
+      "count": 449,
+      "max": [
+        0.9987573027610779,
+        0.9977706670761108,
+        0.9996923208236694
+      ],
+      "min": [
+        -0.9984056353569031,
+        -0.9957022070884705,
+        -0.9997571706771851
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 449,
+      "max": [
+        1.0,
+        1.0000001192092896
+      ],
+      "min": [
+        -0.04613114520907402,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1908,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10776,
+      "componentType": 5126,
+      "count": 202,
+      "max": [
+        0.31929469108581543,
+        0.23449984192848206,
+        0.967599093914032
+      ],
+      "min": [
+        -0.03818533942103386,
+        -0.07433977723121643,
+        0.44188767671585083
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 13200,
+      "componentType": 5126,
+      "count": 202,
+      "max": [
+        0.9780639410018921,
+        0.9819499850273132,
+        0.9986658096313477
+      ],
+      "min": [
+        -0.9755386710166931,
+        -0.9997284412384033,
+        -0.9764603972434998
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3592,
+      "componentType": 5126,
+      "count": 202,
+      "max": [
+        1.0,
+        1.0000001192092896
+      ],
+      "min": [
+        7.450580596923828e-08,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7632,
+      "componentType": 5125,
+      "count": 636,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15624,
+      "componentType": 5126,
+      "count": 552,
+      "max": [
+        0.3571775257587433,
+        0.8920248746871948,
+        1.1574113368988037
+      ],
+      "min": [
+        -0.37498313188552856,
+        -0.013549864292144775,
+        0.4191625118255615
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22248,
+      "componentType": 5126,
+      "count": 552,
+      "max": [
+        0.9966692924499512,
+        1.0,
+        0.9201464653015137
+      ],
+      "min": [
+        -0.9999674558639526,
+        -0.9564948081970215,
+        -0.9722577333450317
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5208,
+      "componentType": 5126,
+      "count": 552,
+      "max": [
+        0.8750000596046448,
+        1.0
+      ],
+      "min": [
+        0.0,
+        -0.002684027887880802
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10176,
+      "componentType": 5125,
+      "count": 1980,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mugri & Vatos (https://sketchfab.com/mugrivatos)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/low-poly-apple-7fbe323be68742419263845302645be6",
+      "title": "Low-Poly Apple"
+    },
+    "generator": "Sketchfab-13.23.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 18096,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9624,
+      "byteOffset": 18096,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28872,
+      "byteOffset": 27720,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 56592,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.0306297,
+          0.0480543,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9562947361469429
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Stalk",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.141239,
+          0.0739203,
+          0.0416144,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9807922275833387
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Leaf",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.12701,
+          0.8,
+          0.208564,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8626560880571311
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Apple_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Apple_Stalk_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Apple_Leaf_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -2.220446049250313e-16,
+        6.123234262925839e-17,
+        -1.0,
+        0.0,
+        -1.0,
+        -4.930380657631324e-32,
+        2.220446049250313e-16,
+        0.0,
+        -2.465190328815662e-32,
+        1.0,
+        6.123234262925839e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "7227865e1a2242b4bac7e0ea09292ed4.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        -75.7243273137016,
+        9.261286833603264e-15,
+        0.6608619402343605,
+        0.0,
+        0.6608619402343585,
+        5.7172453896724615e-06,
+        75.72432731370138,
+        0.0,
+        -6.588606465962599e-08,
+        99.99999999999972,
+        -7.549502489823112e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Apple"
+    },
+    {
+      "mesh": 0,
+      "name": "Apple_Body_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Apple_Stalk_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Apple_Leaf_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
